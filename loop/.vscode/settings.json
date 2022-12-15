@@ -1,0 +1,5 @@
+{
+    "terminal.integrated.cursorStyle": "line",
+    "terminal.integrated.defaultProfile.osx": "zsh",
+    "terminal.integrated.macOptionClickForcesSelection": false
+}
